@@ -21,5 +21,8 @@
     <ClCompile Include="SpareChange.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lunch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
