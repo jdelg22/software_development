@@ -63,6 +63,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Floor.cpp" />
     <ClCompile Include="Lunch.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="NetPay.cpp" />
