@@ -21,4 +21,3 @@ void Net_weekly_pay( void )
 	return;
 }
 
-//hours(a) * rate(b) - withholding percentage(c) = X 
