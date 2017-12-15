@@ -65,6 +65,7 @@
   <ItemGroup>
     <ClCompile Include="Floor.cpp" />
     <ClCompile Include="Furniture.cpp" />
+    <ClCompile Include="GuessingGame.cpp" />
     <ClCompile Include="Lunch.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="NetPay.cpp" />

@@ -33,5 +33,8 @@
     <ClCompile Include="Furniture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GuessingGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
