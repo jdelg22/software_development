@@ -12,15 +12,15 @@ void Guess (void)
 		scanf ( "%d", &guess );
 		if (guess == draw)
 		{ 
-			printf ("You got it! \r\n" );
+			printf ("You got it! \r\n", guess );
 		}
 		else if (guess < draw)
 		{
-			printf ("You guessed too low \r\n");
+			printf ("You guessed too low \r\n", guess );
 		}
 		else (guess > draw);
 		{
-			printf ("You guessed too high \r\n");
+			printf ("You guessed too high \r\n", guess );
 		}
 	}
 
