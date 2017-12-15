@@ -10,15 +10,15 @@ void Furniture (void)
 	scanf ( "%c", &wood );
 	if ( wood == 'P' )
 	{
-		printf ( "You've selected wood type is Pine and the price is 100", wood );
+		printf ( "You've selected wood type Pine and the price is 100", wood );
 	}
 	else if ( wood == 'O' )
 	{
-		printf ( "You've selected wood type is Pine and the price is 225", wood );
+		printf ( "You've selected wood type Oak and the price is 225", wood );
 	}
-	if ( wood == 'M' )
+	else ( wood == 'M' );
 	{
-		printf ( "You've selected wood type is Pine and the price is 310", wood );
+		printf ( "You've selected wood type Mahogany and the price is 310", wood );
 	}
 	
 }
