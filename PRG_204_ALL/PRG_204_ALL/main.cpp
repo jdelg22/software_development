@@ -6,7 +6,7 @@ void Net_weekly_pay( void );
 void Floor( void );
 void Furniture (void) ;
 void Guess (void);
-void EverySum (void);
+void number (void);
 
 int main( int argc, string argv[  ] )
 {
@@ -16,6 +16,6 @@ int main( int argc, string argv[  ] )
 	//Net_weekly_pay(  );
 	//Furniture ( ) ;
 	//Guess ();
-	EverySum ( );
+	number ( );
 	return 0;
 }
