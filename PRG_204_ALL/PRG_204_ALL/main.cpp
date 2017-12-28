@@ -7,6 +7,7 @@ void Floor( void );
 void Furniture (void) ;
 void Guess (void);
 void number (void);
+void perfect (void);
 
 int main( int argc, string argv[  ] )
 {
@@ -16,6 +17,7 @@ int main( int argc, string argv[  ] )
 	//Net_weekly_pay(  );
 	//Furniture ( ) ;
 	//Guess ();
-	number ( );
+	//number ( );
+	perfect ( );
 	return 0;
 }

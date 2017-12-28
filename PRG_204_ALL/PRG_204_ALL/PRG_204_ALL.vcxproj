@@ -70,6 +70,7 @@
     <ClCompile Include="Lunch.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="NetPay.cpp" />
+    <ClCompile Include="Perfect.cpp" />
     <ClCompile Include="SpareChange.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
