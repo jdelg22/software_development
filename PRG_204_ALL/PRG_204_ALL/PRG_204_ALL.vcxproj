@@ -63,6 +63,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="EverySum.cpp" />
     <ClCompile Include="Floor.cpp" />
     <ClCompile Include="Furniture.cpp" />
     <ClCompile Include="GuessingGame.cpp" />

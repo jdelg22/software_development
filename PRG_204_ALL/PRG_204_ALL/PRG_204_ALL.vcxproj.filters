@@ -36,5 +36,8 @@
     <ClCompile Include="GuessingGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="EverySum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
